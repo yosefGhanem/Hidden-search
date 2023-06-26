@@ -1,2 +1,2 @@
 # Hidden-search
-this is hidden search widget
+This is a hidden search widget
